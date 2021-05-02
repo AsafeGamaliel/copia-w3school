@@ -1,0 +1,195 @@
+site que vou copiar - w3schools.com
+
+Itens da pagina:
+1 - header
+2 - 5 Itens de curso iguais
+3 - quadro com 4 cursos
+4 - seçao com 3 icons de site
+5 - secao falando de um jogo
+6 - secao falando de exercicios
+7 - secao falando dos templates
+8 - duas seçoes ligadas por um logo de qualidade (a primeira um titulo, e a segunda um exemplo de how to)
+9 - por fim o footer, com um navegador, links de rede social, textos de ajuda, sinal de curtir e botao.
+
+
+
+1 - SEÇÃO HEADER:
+
+Elementos:
+1.1 - Logo do site
+1.2 - 3 botões em sequencia com dropdown por foco
+1.3 - 3 icons com efeitos
+1.4 - 2 botoes maiores de login
+
+Parte 1: Ordem e conjuntos
+- Usar header para encobrir todos os itens.
+- item 1.1 e 1.2 vão ficar na mesma tag.
+- item 1.3 e 1.4 vão ficar na mesma tag.
+- tag <ul>
+- vai ter um espaço entre estas duas tag <ul>, usarei flexbox
+
+Parte 2: Estilo, tamanho e cores
+- Cada tag vai ser <li><a>
+- o menu com dropdown vai ter icone de setas
+- os icones vão ter seus respectivos icones
+- os dois botoes vao ser feitos com <a>
+- algumas tag com :hover diferente, mas facil
+- tamanho, cores, hover, e centralização de todos os itens (sem os dropdown)
+
+Parte 3: Dropdown estilo
+- o menu com dropdown engloba a tela toda.
+- tem um x para sair
+- tem varios itens em colunas (vou usar flexbox)
+- cada coluna tem um titulo e itens <farei em <ul>
+- usar checkbox para modificar a direção da tela e a cor de fundo.
+
+Parte 4: icones efeitos
+- mudar a cor dos itens do dark mode via javascript
+- se eu usar o checkbox como uma class e por ele em todos os box, quando selecionar um, todos vao ser selecionados sem ajuda do javascript
+- pequeno box verde para linguagem, dizendo que não tem essa funcionalidade #404
+- barra de pesquisa como dropdown 
+
+
+2 - 5 ITENS DE CURSO IGUAIS:
+
+Elementos:
+2.1 - um box com titulos e botões
+2.2 - um box com um exemplo de codigo
+
+Parte 1: Box dos titulos
+- um titulo com o nome do curso
+- um subtitulo
+- dois botoes na vertical
+- tudo centralizado
+
+Parte 2: Box com exemplos
+- um box
+- tem titulo
+- um box com exemplo de código
+- um botao
+
+
+
+3 - QUADRO COM 4 CORES:
+
+Elementos:
+3.1 - box com 1 titulo, subtitulo e botao
+
+Parte 1: box de curso
+- um titulo
+- um subtitulo
+- um botao
+- tudo centralizado
+- são 4 box assim, organizadas em um 2x2
+
+
+
+4 - SEÇAO COM 3 ICONS DE OUTROS SITES
+
+Elementos:
+4.1 - box w3
+4.2 - box color picker
+4.3 - box Bootstrap
+
+Parte 1: Box dos cantos
+- um titulo
+- um textinho
+- um botao
+
+Parte 2: Box cores
+- Um titulo
+- uma imagem
+
+
+
+5 - SEÇAO DO JOGO:
+
+Elementos:
+5.1 - titulo, subtitulo, personagem 3D, botao
+
+Parte 1: Box de jogo
+- titulo
+- subtitulo
+- imagem 3D
+- botao
+- tudo centralizado
+
+
+
+6 - SEÇÃO DE EXERCÍCIOS:
+
+Elementos:
+6.1 - titulo, subtitulo, e botoes.
+
+Parte 1: Box exercicios
+- um titulo
+- um subtitulo
+- 3 botoes em serie de exercicios
+- 7 botoes em serie de exercicios
+
+
+
+7 - SEÇÃO DOS TEMPLATES:
+
+Elementos:
+7.1 - titulo, subtitulo, imagem, botao.
+
+Parte 1: Box de templates
+- um titulo
+- um subtitulo
+- uma imagem com templates
+- um botao
+
+
+
+8 - SEÇAO CONJUNTA:
+
+Elementos:
+8.1 - Uma seçao com titulo, subtitulo e um botao
+8.2 - uma seção com titulo, subtitulo, dois exemplos de codigo e um botao.
+8.3 - um circulo ligando as seçoes a cima (ou imagem).
+
+Parte 1: Box dos titulos
+- um titulo
+- um subtitulo
+- um botao
+
+Parte 2: Box de exemplo
+- um titulo
+- um subtitulo
+- 2 exemplos de codigo lado a lado
+- um botao
+
+Parte 3: selo de qualidade
+- Um cicurlo com um logo e letras em volta
+- uma seta que se enrola e entra na imagem
+
+
+
+9 - FOOTER:
+
+Elementos:
+- um menu a esquerda, um menu a direita, links de redes sociais, um texto, icone de curtir e um botao.
+
+Parte 1: menu de link
+- 3 link em sequencia
+
+Parte 2: Link de forum
+- 2 link de forum
+
+Parte 3: Link de rede social
+- 3 icones de rede social
+
+Parte 4: box footer
+- um texto
+- icone de curtir
+- um Botão
+
+
+
+10 - Responsividade:
+- Só depois de finalizar o site
+
+
+
+
